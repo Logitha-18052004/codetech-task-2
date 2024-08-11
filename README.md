@@ -12,7 +12,7 @@ DURATION : JULY 10 TO AUGUST 10 2024
 
 MENTOR : MUZAMMIL AHMED
 
-PROJECT : BMI TRACKER APP
+PROJECT : BMI TRACKER 
 
 OBJECTIVES : To develop a Body Mass Index (BMI) tracker that calculates BMI based on user input for height and weight, and classifies the result as underweight, normal weight, overweight, or obesity. The application will also provide visualizations for easy understanding of the user's BMI category and the distribution of BMI classifications.
 
